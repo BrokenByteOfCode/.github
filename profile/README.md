@@ -39,7 +39,7 @@ Creating engaging digital experiences: web-based games, gaming utilities, real-t
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BehindThatTeam&layout=compact&theme=radical&langs_count=8)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BehindThatTeam&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BrokenByteOfCode&theme=dark&hide_border=true&locale=uk)](https://git.io/streak-stats)
 
 </div>
 
