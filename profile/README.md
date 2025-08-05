@@ -35,9 +35,9 @@ Creating engaging digital experiences: web-based games, gaming utilities, real-t
 
 <div align="center">
 
-![Team Stats](https://github-readme-stats.vercel.app/api?username=BehindThatTeam&show_icons=true&theme=radical&hide=stars&count_private=true&include_all_commits=true)
+![Team Stats](https://github-readme-stats.vercel.app/api?username=BrokenByteOfCode&show_icons=true&theme=radical&hide=stars&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BehindThatTeam&layout=compact&theme=radical&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrokenByteOfCode&layout=compact&theme=radical&langs_count=8)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BrokenByteOfCode&theme=dark&hide_border=true&locale=uk)](https://git.io/streak-stats)
 
