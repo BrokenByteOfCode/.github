@@ -14,25 +14,6 @@
 
 ---
 
-## 🚀 Current Focus
-
-| **Area** | **Tech** | **Applications** |
-|----------|----------|------------------|
-| **Full-Stack** | Python, Flask, Vue.js, React | Web apps, SaaS platforms |
-| **AI/ML** | OpenAI, LLMs, Colab | Chatbots, content generation |
-| **Real-time** | WebSockets, Redis | Live chat, gaming |
-| **Gaming** | JavaScript, Canvas, WebGL | Browser games, interactive tools |
-
----
-
-## 🎮 Gaming & Interactive Projects
-
-Creating engaging digital experiences: web-based games, gaming utilities, real-time multiplayer platforms, development tools, and interactive visualizations.
-
----
-
-## 📊 Team Stats
-
 <div align="center">
 
 ![Team Stats](https://github-readme-stats.vercel.app/api?username=BrokenByteOfCode&show_icons=true&theme=radical&hide=stars&count_private=true&include_all_commits=true)
